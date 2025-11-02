@@ -40,9 +40,6 @@
     <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
     </a>
-    <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/celeryproject/celeryproject-icon.svg" alt="celery" width="40" height="40"/>
-    </a>
 </p>
 
 
