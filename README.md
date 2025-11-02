@@ -10,7 +10,7 @@
 
 # 🖥️ Technical Skills: 
 <p align="left">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 15px;">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="java" width="40" height="40"/>
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
